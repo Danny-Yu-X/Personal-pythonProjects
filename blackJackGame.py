@@ -1,3 +1,5 @@
+#Danny Yu
+#This is a black jack card game where the user gets to decide how many games to play and chooses to "Hit" or "Stand"
 import random
 
 class Card:
@@ -8,7 +10,7 @@ class Card:
         return f"{self.rank['rank']} of {self.suit}"
 
 class Deck:
-    def __init__(self): #self represents the instance of the class    
+    def __init__(self): #self represents the instance of the class
         self.cards = []
         suits = ["spades", "clubs", "hearts", "diamonds"]
         ranks = [

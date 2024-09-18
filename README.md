@@ -1,2 +1,2 @@
 # Personal-pythonProjects
-## These are the Python projects I have developed on my own time!
+## These are the Python projects I have created on my own time!
